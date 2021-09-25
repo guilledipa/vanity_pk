@@ -1,3 +1,7 @@
 package vanity_pk
 
-func Test() {}
+import "fmt"
+
+func Test() {
+	fmt.Println("hola")
+}
