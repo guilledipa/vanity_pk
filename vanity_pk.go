@@ -1,3 +1,3 @@
 package vanity_pk
 
-func test() {}
+func Test() {}
