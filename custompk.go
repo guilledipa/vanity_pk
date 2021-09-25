@@ -1,4 +1,4 @@
-package vanity_pk
+package custompk
 
 import "fmt"
 
